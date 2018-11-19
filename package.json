@@ -1,0 +1,36 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "Todo list plus authentication system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PokSleek/TaskTracker.git"
+  },
+  "author": "Pok <vse.peretrut@yandex.by>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PokSleek/TaskTracker/issues"
+  },
+  "homepage": "https://github.com/PokSleek/TaskTracker#readme",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  },
+  "devDependencies": {}
+}

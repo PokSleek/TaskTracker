@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cna",
+				"changeRoverWay"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"flo",
+				"float\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"s",
+				"speed"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"p",
+				"pixPerSec"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"Mo",
+				"MovementOfBlocksForward"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"f",
+				"flag"
+			],
+			[
+				"c",
+				"currentBlock"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"fu",
+				"func"
+			],
+			[
+				"d",
+				"displayImages"
+			],
+			[
+				"mo",
+				"movementOfBlocks"
+			],
+			[
+				"pro",
+				"promiseFunction"
+			],
+			[
+				"m",
+				"movementOfBlocks"
+			],
+			[
+				"ti",
+				"timerId"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"mr",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-bottom"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"e",
+				"elemWidth"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"all",
+				"align-self\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"ce",
+				"centerX"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"pipe",
+				"pipeBottom"
+			],
+			[
+				"R",
+				"Rover"
+			],
+			[
+				"max",
+				"maxLeft"
+			],
+			[
+				"ar",
+				"articleElements"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"ra",
+				"randomEl"
+			],
+			[
+				"is",
+				"isNumeric"
+			],
+			[
+				"sa",
+				"salaries"
+			],
+			[
+				"sum",
+				"sumSalaries"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ge",
+				"getDecimal"
+			],
+			[
+				"ac",
+				"ACCESS_ARTICLE_EDIT"
+			],
+			[
+				"gu",
+				"guest"
+			],
+			[
+				"ACC",
+				"ACCESS_ARTICLE_VIEW"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control ",
+				"Package Control: Add Channel"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pacage control",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/ReactDB/spa-webinar/etc/config.js",
+		"/C/Users/pokin/Desktop/IncubatorProject/tasktracker/public/manifest.json",
+		"/C/Program Files/nodejs/node_modules/npm/package.json",
+		"/D/ReactJS/app/src/serviceWorker.js",
+		"/C/inetpub/wwwroot/my-app/src/index.js",
+		"/C/inetpub/wwwroot/my-app/src/fixtures.js",
+		"/D/ReactJS/my-app/src/index.js",
+		"/C/inetpub/wwwroot/flappy-bird-master/js/Game.js",
+		"/C/inetpub/wwwroot/flappy-bird-master/js/flappy.js",
+		"/D/Phaser/phaser-examples/tasks/examples.js",
+		"/D/Phaser/my-app/src/phaser.js",
+		"/D/Phaser/my-app/src/index.js",
+		"/D/Phaser/my-app/src/serviceWorker.js",
+		"/D/Phaser/myapp/package.json",
+		"/D/Phaser/myapp/src/index.js",
+		"/D/Phaser/MarsRover/dist/main-bundle.js",
+		"/D/Phaser/MarsRover/package.json",
+		"/D/Phaser/myapp/webpack.config.js",
+		"/D/Phaser/MarsRover/dist/index.html",
+		"/D/Phaser/MarsRover/src/main.js",
+		"/D/Phaser/MarsRover/config/webpack.dev.js",
+		"/D/Phaser/MarsRover/webpack.config.js",
+		"/D/ReactJS/my-app/public/index.html",
+		"/D/ReactJS/my-app/public/style.css",
+		"/D/ReactJS/my-app/src/components/App.js",
+		"/D/ReactJS/my-app/src/components/Article.js",
+		"/D/ReactJS/my-app/src/components/ArticleList.js",
+		"/D/JS/marsohod/marsohod/src/marsRover.js",
+		"/D/JS/marsohod/marsohod/src/index.js",
+		"/D/JS/marsohod/marsohod/public/index.html",
+		"/D/JS/marsohod/marsohod/package.json",
+		"/D/JS/marsohod/marsohod/public/manifest.json",
+		"/D/ReactJS/my-app/src/components/app.js",
+		"/C/Users/pokin/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/ReactJS/my-app/src/registerServiceWorker.js",
+		"/C/Users/pokin/Desktop/script/1/style.css",
+		"/C/Users/pokin/Desktop/script/1/script.js",
+		"/C/Users/pokin/Desktop/script/1/script2.js",
+		"/C/Users/pokin/Desktop/script/1/test.html",
+		"/C/Users/pokin/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/pokin/AppData/Roaming/Sublime Text 3/Packages/User/soda/Espresso Soda.tmTheme",
+		"/C/Users/pokin/Desktop/Espresso Soda.tmTheme",
+		"/C/Users/pokin/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/pokin/Desktop/script/1/jquery-3.3.1.min.js",
+		"/D/JS/FStep/index.html",
+		"/D/JS/FStep/script.js",
+		"/D/web/templates/ja_university/css/template.css",
+		"/D/Games/S.T.A.L.K.E.R - Lost Alpha/appdata/savedgames/123.sav",
+		"/C/Users/pokin/Downloads/api-result.php",
+		"/D/JS/TS/app.js",
+		"/D/JS/TS/app.ts",
+		"/D/JS/TS/index.html",
+		"/D/JS/FStep/public/home.html",
+		"/D/JS/FStep/public/about.html",
+		"/D/JS/FStep/helloWorld.js",
+		"/C/Users/pokin/Desktop/path.php",
+		"/D/web/configuration.php",
+		"/D/web/administrator/buttons.css",
+		"/D/web/administrator/configuration.php",
+		"/D/bla.php",
+		"/D/web/templates/ja_university/themes/blue/css/menu/css.css",
+		"/D/web/templates/ja_university/themes/blue/css/menu/dropline.css",
+		"/D/web/templates/ja_university/themes/blue/css/template.css",
+		"/D/Новая папка/web/index.php",
+		"/D/Downloads/DAEMON Tools Ultra 4.0.1.0425 RePack by D!akov/Тихая установка.cmd",
+		"/D/Downloads/DAEMON Tools Lite 5.01.0407/DAEMON Tools Lite 5.0.1.0407 RePack by KpoJIuK/Тихая установка (RUS).cmd",
+		"/C/Users/pokin/Desktop/testautomation/README.md",
+		"/D/web/bin/configuration.php",
+		"/D/Новая папка/web/t3-assets/data.php",
+		"/D/Новая папка/web/t3-assets/css_61a09.css",
+		"/D/Новая папка/web/t3-assets/index.html",
+		"/D/web/templates/ja_university/css/template-ie7.css",
+		"/D/search/newsfeeds/newsfeeds.php",
+		"/D/web/templates/ja_university/etc/layouts/default.xml",
+		"/D/web/templates/ja_university/css/layout.css",
+		"/D/web/templates/ja_university/css/layout-tablet.css",
+		"/D/web/templates/ja_university/css/menu/css.css",
+		"/D/Web Service/REST-master/REST - Jersey - Java Client for XML GET & POST/RestJerseyClientXML/pom.xml",
+		"/D/Новая папка/web/t3-assets/js/data.php",
+		"/D/Новая папка/web/configuration.php",
+		"/D/search/content/content.php",
+		"/D/search/content/content.xml",
+		"/D/web/templates/ja_university/themes/blue/info.xml",
+		"/D/web/templates/ja_university/offline.php",
+		"/D/web/templates/ja_university/blocks/iphone/login.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
